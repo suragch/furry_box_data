@@ -1,33 +1,26 @@
 {
-    [
-        "birds": [
-            {
-                "name": "canaries",
-                "url": "https://github.com/puje/asdjhajk/canary.jpeg",
-                "description": "jklas jfklasdj fklajds flkjadklfja dlskjf lj"
-            },
-            {
-                "name": "Budgies",
-                "url": "https://github.com/puje/asdjhajk/canary.jpeg",
-                "description": "ajashdjkfhakj hlskjf lj"
-            },
-            {
-                "name": "Budgies",
-                "url": "https://github.com/puje/asdjhajk/canary.jpeg",
-                "description": "ajashdjkfhakj hlskjf lj"
-            },
-        ],
-        "dogs": [
-            {
-                "name": "dobermin",
-                "url": "https://github.com/puje/asdjhajk/canary.jpeg",
-                "description": "jklas jfklasdj fklajds flkjadklfja dlskjf lj"
-            },
-            {
-                "name": "husky",
-                "url": "https://github.com/puje/asdjhajk/canary.jpeg",
-                "description": "ajashdjkfhakj hlskjf lj"
-            },
-        ]
-    ]
+  "birds": [
+    {
+      "name": "canaries",
+      "url": "https://github.com/puje/asdjhajk/canary.jpeg",
+      "description": "jklas jfklasdj fklajds flkjadklfja dlskjf lj"
+    },
+    {
+      "name": "bluebird",
+      "url": "https://github.com/puje/asdjhajk/canary.jpeg",
+      "description": "jklas jfklasdj fklajds flkjadklfja dlskjf lj"
+    }
+  ],
+  "dogs": [
+    {
+      "name": "dobermin",
+      "url": "https://github.com/puje/asdjhajk/dobermin.jpeg",
+      "description": "jklas jfklasdj fklajds flkjadklfja dlskjf lj"
+    },
+    {
+      "name": "german shephard",
+      "url": "https://github.com/puje/asdjhajk/shephard.jpeg",
+      "description": "jklas jfklasdj fklajds flkjadklfja dlskjf lj"
+    }
+  ]
 }
